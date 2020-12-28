@@ -1,0 +1,77 @@
+[[{
+ "Ime": "Dejan Babic",
+ "Br.Indeksa": "18/019",
+ "Fakultet": "FIST",
+ "Predmet_ocjena": [
+  [
+   "Matematika",
+   5
+  ],
+  [
+   "Matematika",
+   5
+  ]
+ ],
+ "Prosjek": 5.0
+}]
+,
+[{
+ "Ime": "Tamara Pavlovic",
+ "Br.Indeksa": "18/012",
+ "Fakultet": "FIST",
+ "Predmet_ocjena": [
+  [
+   "Infor",
+   4
+  ]
+ ],
+ "Prosjek": 4.0
+}]
+,
+[{
+ "Ime": "Dejan Babic",
+ "Br.Indeksa": "18/019",
+ "Fakultet": "FIST",
+ "Predmet_ocjena": [
+  [
+   "Matematika",
+   5
+  ],
+  [
+   "Matematika",
+   5
+  ]
+ ],
+ "Prosjek": 5.0
+}]
+,
+[{
+ "Ime": "Dejan Babic",
+ "Br.Indeksa": "18/019",
+ "Fakultet": "FIST",
+ "Predmet_ocjena": [
+  [
+   "matematika",
+   10
+  ]
+ ],
+ "Prosjek": 0
+}]
+,
+[{
+ "Ime": "Teodora Babic",
+ "Br.Indeksa": "60/020",
+ "Fakultet": "FMEFB",
+ "Predmet_ocjena": [
+  [
+   "Matematika",
+   10
+  ],
+  [
+   "Ekonomija",
+   10
+  ]
+ ],
+ "Prosjek": 10.0
+}]
+]
